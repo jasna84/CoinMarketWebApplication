@@ -1,0 +1,72 @@
+2020-11-03 13:46:09.782 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 13:46:20.631 [main] INFO  HomePage - Home page navigated
+2020-11-03 13:46:29.811 [main] INFO  HomePage - Main filter button clicked
+2020-11-03 13:46:42.765 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 13:50:09.284 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 13:50:22.627 [main] INFO  HomePage - Home page navigated
+2020-11-03 13:50:23.262 [main] INFO  HomePage - Main filter button clicked
+2020-11-03 13:50:36.482 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 14:15:08.181 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 14:15:19.169 [main] INFO  HomePage - Home page navigated
+2020-11-03 14:15:19.492 [main] INFO  HomePage - Main filter button clicked
+2020-11-03 14:15:23.948 [main] INFO  HomePage - All currencies option selected
+2020-11-03 14:15:35.219 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 14:28:37.108 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 14:28:47.502 [main] INFO  HomePage - Home page navigated
+2020-11-03 14:28:51.455 [main] INFO  HomePage - Main filter button clicked
+2020-11-03 14:28:52.648 [main] INFO  HomePage - All currencies option selected
+2020-11-03 14:29:05.611 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 14:34:57.641 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 14:35:04.628 [main] INFO  HomePage - Home page navigated
+2020-11-03 14:35:05.043 [main] INFO  HomePage - Main filter button clicked
+2020-11-03 14:35:08.596 [main] INFO  HomePage - All currencies option selected
+2020-11-03 14:35:08.808 [main] INFO  HomePage - 100 rows selected
+2020-11-03 14:35:23.169 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 14:37:23.086 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 14:37:26.934 [main] INFO  HomePage - Home page navigated
+2020-11-03 14:37:27.459 [main] INFO  HomePage - Main filter button clicked
+2020-11-03 14:37:34.370 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 14:39:50.839 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 14:39:54.847 [main] INFO  HomePage - Home page navigated
+2020-11-03 14:39:55.168 [main] INFO  HomePage - Main filter button clicked
+2020-11-03 14:39:59.746 [main] INFO  HomePage - All currencies option selected
+2020-11-03 14:39:59.930 [main] INFO  HomePage - 100 rows selected
+2020-11-03 14:40:14.508 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 15:06:33.589 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 15:06:39.533 [main] INFO  HomePage - Home page navigated
+2020-11-03 15:06:39.837 [main] INFO  HomePage - Main filter button clicked
+2020-11-03 15:06:42.443 [main] INFO  HomePage - All currencies option selected
+2020-11-03 15:06:42.743 [main] INFO  HomePage - 100 rows selected
+2020-11-03 15:06:48.070 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 15:10:47.252 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 15:10:57.360 [main] INFO  HomePage - Home page navigated
+2020-11-03 15:11:01.373 [main] INFO  HomePage - Main filter button clicked
+2020-11-03 15:11:05.292 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 15:13:44.719 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 15:13:49.183 [main] INFO  HomePage - Home page navigated
+2020-11-03 15:13:55.919 [main] INFO  HomePage - Main filter button clicked
+2020-11-03 15:14:02.019 [main] INFO  HomePage - All currencies option selected
+2020-11-03 15:14:10.616 [main] INFO  HomePage - 100 rows selected
+2020-11-03 15:14:31.936 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 15:14:49.920 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 15:14:53.974 [main] INFO  HomePage - Home page navigated
+2020-11-03 15:14:54.611 [main] INFO  HomePage - Main filter button clicked
+2020-11-03 15:14:58.471 [main] INFO  HomePage - All currencies option selected
+2020-11-03 15:14:58.619 [main] INFO  HomePage - 100 rows selected
+2020-11-03 15:15:05.075 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 16:01:12.293 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 16:01:17.134 [main] INFO  HomePage - Home page navigated
+2020-11-03 16:01:18.886 [main] INFO  HomePage - Main filter button clicked
+2020-11-03 16:01:20.779 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 16:03:55.994 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 16:04:00.255 [main] INFO  HomePage - Home page navigated
+2020-11-03 16:04:01.777 [main] INFO  HomePage - 100 rows selected
+2020-11-03 16:04:07.308 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 16:06:51.773 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 16:06:56.297 [main] INFO  HomePage - Home page navigated
+2020-11-03 16:06:56.487 [main] INFO  HomePage - 100 rows selected
+2020-11-03 16:07:02.155 [main] INFO  BaseTest - Driver closed successfully
+2020-11-03 16:08:27.754 [main] INFO  BaseTest - Driver set successfully
+2020-11-03 16:08:31.584 [main] INFO  HomePage - Home page navigated
+2020-11-03 16:08:34.230 [main] INFO  HomePage - 100 rows selected
+2020-11-03 16:08:40.721 [main] INFO  BaseTest - Driver closed successfully

@@ -1,0 +1,10 @@
+2020-11-06 16:11:07.259 [main] INFO  BaseTest - Driver set successfully
+2020-11-06 16:11:12.426 [main] INFO  HomePage - Home page successfully navigated
+2020-11-06 16:12:51.561 [main] INFO  BaseTest - Driver closed successfully
+2020-11-06 16:19:47.208 [main] INFO  BaseTest - Driver set successfully
+2020-11-06 16:19:53.399 [main] INFO  HomePage - Home page successfully navigated
+2020-11-06 16:19:58.492 [main] INFO  HomePage - Items added to Watchlist
+2020-11-06 16:19:59.986 [main] INFO  HomePage - Watchlist page successfully navigated
+2020-11-06 16:20:08.461 [main] INFO  HomePage - Items added to Watchlist
+2020-11-06 16:20:08.803 [main] INFO  HomePage - Watchlist page successfully navigated
+2020-11-06 16:20:11.972 [main] INFO  BaseTest - Driver closed successfully

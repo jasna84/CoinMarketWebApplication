@@ -1,0 +1,33 @@
+2020-11-04 11:50:49.031 [main] INFO  BaseTest - Driver set successfully
+2020-11-04 11:50:55.562 [main] INFO  HomePage - Home page navigated
+2020-11-04 11:51:33.220 [main] INFO  BaseTest - Driver closed successfully
+2020-11-04 12:05:28.062 [main] INFO  BaseTest - Driver set successfully
+2020-11-04 12:05:36.490 [main] INFO  HomePage - Home page navigated
+2020-11-04 12:06:11.283 [main] INFO  BaseTest - Driver closed successfully
+2020-11-04 12:09:35.006 [main] INFO  BaseTest - Driver set successfully
+2020-11-04 12:09:38.970 [main] INFO  HomePage - Home page navigated
+2020-11-04 12:09:42.759 [main] INFO  HomePage - 100 rows selected
+2020-11-04 12:12:48.161 [main] INFO  BaseTest - Driver closed successfully
+2020-11-04 12:19:45.106 [main] INFO  BaseTest - Driver set successfully
+2020-11-04 12:19:49.788 [main] INFO  HomePage - Home page navigated
+2020-11-04 12:19:52.835 [main] INFO  HomePage - 100 rows selected
+2020-11-04 12:22:58.093 [main] INFO  BaseTest - Driver closed successfully
+2020-11-04 14:45:41.024 [main] INFO  BaseTest - Driver set successfully
+2020-11-04 14:45:49.027 [main] INFO  HomePage - Home page navigated
+2020-11-04 14:46:40.966 [main] INFO  BaseTest - Driver closed successfully
+2020-11-04 15:00:43.901 [main] INFO  BaseTest - Driver set successfully
+2020-11-04 15:00:48.319 [main] INFO  HomePage - Home page navigated
+2020-11-04 15:06:47.857 [main] INFO  BaseTest - Driver closed successfully
+2020-11-04 15:07:47.049 [main] INFO  BaseTest - Driver set successfully
+2020-11-04 15:07:52.864 [main] INFO  HomePage - Home page navigated
+2020-11-04 15:08:24.115 [main] INFO  BaseTest - Driver closed successfully
+2020-11-04 15:10:15.620 [main] INFO  BaseTest - Driver set successfully
+2020-11-04 15:10:19.664 [main] INFO  HomePage - Home page navigated
+2020-11-04 15:23:13.700 [main] INFO  BaseTest - Driver closed successfully
+2020-11-04 15:24:01.208 [main] INFO  BaseTest - Driver set successfully
+2020-11-04 15:24:07.210 [main] INFO  HomePage - Home page navigated
+2020-11-04 15:25:40.131 [main] INFO  BaseTest - Driver closed successfully
+2020-11-04 16:07:24.195 [main] INFO  BaseTest - Driver set successfully
+2020-11-04 16:07:28.203 [main] INFO  HomePage - Home page successfully navigated
+2020-11-04 16:07:56.698 [main] INFO  HomePage - Watchlist page successfully navigated
+2020-11-04 16:07:57.920 [main] INFO  BaseTest - Driver closed successfully
